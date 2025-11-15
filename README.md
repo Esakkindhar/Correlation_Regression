@@ -1,5 +1,5 @@
 # Correlation and regression for data analysis
-Developed By: Esakkindhar A 
+Developed By: Esakkindhar A
 
 Register Number: 212224040085
 # Aim : 
